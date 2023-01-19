@@ -21,7 +21,7 @@ import java.awt.event.ActionEvent;
  * adds a counter that counts everytime red shows up on the button
  * uses random colors
  * 
- * @author bbarbee
+ * @author Bryce Barbee
  *
  */
 public class Counter extends JFrame {
