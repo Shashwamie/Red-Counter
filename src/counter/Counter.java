@@ -77,7 +77,7 @@ public class Counter extends JFrame {
 		JLabel lblName = new JLabel("Bryce's GUI");
 		lblName.setBorder(new EmptyBorder(8, 0, 8, 0));
 		lblName.setOpaque(true);
-		lblName.setFont(new Font("Noteworthy", Font.PLAIN, 16));
+		lblName.setFont(new Font("Noteworthy", Font.PLAIN, 18));
 		lblName.setBackground(new Color(245, 245, 245));
 		lblName.setHorizontalAlignment(SwingConstants.CENTER);
 		return lblName;
